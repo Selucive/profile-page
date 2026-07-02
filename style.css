@@ -1,9 +1,14 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: white;
-    color: #333;
+    background-color: #F8F9FA;
+    color: #1A1A2E;
     padding: 2rem;
 }
+section {
+    padding: 0.5rem;
+    margin: 1rem;
+    background-color: #FFFFFF ;
+}
 p {
-    color: #0057b7;
+    color: #6C757D;
 }
